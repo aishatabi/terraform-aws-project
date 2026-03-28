@@ -30,6 +30,14 @@ I used Infrastructure as Code to automate the deployment of a basic AWS environm
 - `terraform apply`
 - `terraform destroy`
 
+## 📸 Screenshots
+
+### ✅ Terraform Apply
+![Terraform Apply](images/terraform-apply.png)
+
+### 🌐 Live Website
+![Website](images/terraform-site.png)
+
 ## What I Learned
 - How to automate AWS infrastructure using Terraform
 - How Terraform providers, resources, variables, and outputs work
